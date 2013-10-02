@@ -1,1 +1,4 @@
-This project used to automatically send weibo in Linux platform include Ubuntu, Raspberry Pi etc.
+This project is used to automatically send weibo in Linux platform include Ubuntu, Raspberry Pi etc.
+
+USAGE
+     ./auto-send.sh
