@@ -23,7 +23,9 @@ platform, which includes Ubuntu, Raspberry Pi etc.
 4. Running: 
 
 > $ ./auto-send.sh -f                # send a blog without image
+
 > $ ./auto-send.sh -p images/pi.png  # with image
+
 > $ ./auto-send.sh -f -p images/pi.png 
 
 ## EXAMPLE
