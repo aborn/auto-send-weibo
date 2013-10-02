@@ -23,7 +23,7 @@
 
 source help_info.sh
 ABSPATH=$(cd $(dirname $0); pwd);
-CFGFILE="account.cfg"
+CFGFILE="account.cfg.aborn"
 updateURL="https://api.weibo.com/2/statuses/update.json"
 uploadURL="https://upload.api.weibo.com/2/statuses/upload.json"
 

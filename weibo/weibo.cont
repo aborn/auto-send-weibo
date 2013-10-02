@@ -1,2 +1,1 @@
-This is a example microblog, which automatically sent by my Raspberry Pi.
-这是一个测试微博，它自动发自我的数莓派！
+用shell脚本写了一个在Linux平台下自动发微博的项目，见我的GitHub https://github.com/aborn/auto-send-weibo 。你看到的这条微博就是在Linux命令行下自动发出的！
