@@ -21,9 +21,9 @@ platform, which includes Ubuntu, Raspberry Pi etc.
 2. Edit weibo content in file ${ABSPATH}/weibo/weibo.cont
 3. All pictures/images are stored in ${ABSPATH}/images/
 4. Running: 
-   $ ./auto-send.sh -f                # send a blog without image
-   $ ./auto-send.sh -p images/pi.png  # with image
-   $ ./auto-send.sh -f -p images/pi.png 
+> $ ./auto-send.sh -f                # send a blog without image
+> $ ./auto-send.sh -p images/pi.png  # with image
+> $ ./auto-send.sh -f -p images/pi.png 
 
 ## EXAMPLE
 	./auto-send.sh -h    # get help msg
