@@ -17,10 +17,11 @@ platform, which includes Ubuntu, Raspberry Pi etc.
 * Get help message by run $./auto-send.sh -h
 
 ## USAGE
-1. Edit file account.cfg to configure your account infomation
-2. Edit weibo content in file ${ABSPATH}/weibo/weibo.cont
-3. All pictures/images are stored in ${ABSPATH}/images/
-4. Running: 
+1. Edit file account.cfg to configure your account (USER and PASSWORD)
+2. Apply an application and get App Key in open.weibo.com
+3. Edit weibo content in file ${ABSPATH}/weibo/weibo.cont
+4. All pictures/images are stored in ${ABSPATH}/images/
+5. Running: 
 
 > $ ./auto-send.sh -f                # send a blog without image
 
