@@ -8,11 +8,12 @@ platform, which includes Ubuntu, Raspberry Pi etc.
 
 ## NOTE
 #### Before you use this code, please confirm:
-* You must have an weibo account. Please apple it form www.weibo.com if you don't.
+* You must have an weibo account. Please sign up form www.weibo.com if you don't.
 
 #### In this README.md, ${ABSPATH} means this file path
 
 #### This project use shell(bash) scripts.
+* Get help message by run $./auto-send.sh -h
 
 ## USAGE
 1. Edit file account.cfg to configure your account infomation

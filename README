@@ -1,4 +1,21 @@
 This project is used to automatically send weibo in Linux platform include Ubuntu, Raspberry Pi etc.
 
+NAME
+    auto-send.sh automatically send microblog(weibo) in linux
 USAGE
-     ./auto-send.sh
+    ./auto-send.sh [-f|-c  |"content"] [ -p /path/to/pic.png]
+OPTIONS
+    -h       this help manual.
+    -f       send file './weibo/weibo.cont' content
+    -c       [contents], short content text information
+    -p       image path default:./images/weibo.png
+EXAMPLE
+     ./auto-send.sh -c "My first test microblog " 
+     ./auto-send.sh -f 
+     ./auto-send.sh -p ./images/pi.png -f
+NOTE
+     This version only support single picture
+AUTHOR
+     Aborn Jiang (loveaborn@foxmail.com)
+VERSION
+     v0.1  2013-10-02
