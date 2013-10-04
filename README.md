@@ -3,8 +3,8 @@ auto-send-weibo
 
 ## INTRODUCTION
 
-This project is used to automatically send weibo in Linux 
-platform, which includes Ubuntu, Raspberry Pi etc.
+This project is written by Shell scripts, which used to automatically send weibo in Linux 
+platform including Ubuntu, Raspberry Pi etc.
 
 ## NOTE
 #### Before you use this code, please confirm:
