@@ -18,12 +18,13 @@
 # AUTHOR
 #      Aborn Jiang (loveaborn@foxmail.com)
 # VERSION
-#      v0.1  2013-10-02
+#      v0.1    2013-10-02
+#      v0.1.1  2014-03-23
 ###################################################################
 
 ABSPATH=$(cd $(dirname $0); pwd);
 source ${ABSPATH}/help_info.sh
-CFGFILE="${ABSPATH}/account.cfg"
+CFGFILE="${ABSPATH}/conf/account.cfg"
 updateURL="https://api.weibo.com/2/statuses/update.json"
 uploadURL="https://upload.api.weibo.com/2/statuses/upload.json"
 
